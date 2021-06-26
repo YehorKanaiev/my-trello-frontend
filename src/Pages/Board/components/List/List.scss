@@ -1,0 +1,28 @@
+.list {
+  flex: 0 0 400px;
+  
+  padding: 20px;
+  margin: 0 20px;
+  border-radius: 5px;
+  background-color: rgba(220, 221, 226, 1);
+
+  .list__title {
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    font-weight: 400;
+  }
+
+  .list__card-add-button {
+    font-family: Roboto, sans-serif;
+    font-size: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+  }
+
+  .list__card-add-button:hover {
+    background-color: #aaa;
+  }
+}

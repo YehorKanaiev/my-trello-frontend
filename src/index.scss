@@ -1,0 +1,13 @@
+@import 'reset';
+// Fonts
+// Roboto 400, 700 normal;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
